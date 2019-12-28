@@ -1,3 +1,6 @@
+# Common files
+git_push.sh
+
 # Prerequisites
 *.d
 
